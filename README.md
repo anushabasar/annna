@@ -1,6 +1,6 @@
 #Student Management System
 We made this project,this is our  <b>mini project </b>.
-<a href="https://149501111.v2.pressablecdn.com/wp-content/uploads/2020/12/Student-Management-System.jpg">
+<a href="https://149501111.v2.pressablecdn.com/wp-content/uploads/2020/12/Student-Management-System.jpg"></a>
 We used
 <br> <b>Front end Technologies</b>
 <li>HTML
