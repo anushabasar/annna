@@ -1,7 +1,9 @@
 #Student Management System
+<b>STUDENT MANAGEMENT SYSTEM</b>
 We made this project,this is our  <b>mini project </b>.
 <img src="https://149501111.v2.pressablecdn.com/wp-content/uploads/2020/12/Student-Management-System.jpg">
-We used
+<br>
+We used below technologies
 <br> <b>Front end Technologies :</b>
 <li>HTML
 <li>CSS
