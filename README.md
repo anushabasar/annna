@@ -21,8 +21,9 @@ We used below technologies
 <br>
 We successfully completed this project.
 <br>
-The main objective of this project to help student to store their academic details from different Universities and colleges.To maintain information of student this will help administration to store their students infomation.
+The main objective of this project to help student to store their academic details from different Universities and colleges.To maintain information of student this will help administration to store their students infomation.This provide security by sending verification mail to student register mail.This allow student to change their profile and reset password.
 <br>
+ 
 For any queries:
 <br>
 Contact us:<b>rguktbasar1122@gmail.com</b>
