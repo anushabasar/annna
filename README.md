@@ -1,6 +1,8 @@
 #Student Management System
-We made this project as <b>mini project </b> in our academics.
-We used <b>Front end Technologies</b>
+We made this project,this is our  <b>mini project </b>.
+<a href="https://149501111.v2.pressablecdn.com/wp-content/uploads/2020/12/Student-Management-System.jpg">
+We used
+<br> <b>Front end Technologies</b>
 <li>HTML
 <li>CSS
 <li>JAVA SCRIPT
@@ -8,8 +10,8 @@ We used <b>Front end Technologies</b>
 <b>Backend Technologies</b>
 <li>PHP
 <li>MYSQL
-<b>Server</b>
 <br>
+<b>Server</b>
 <li>Apache Tomcat
 <br>
 We successfully completed this project.
